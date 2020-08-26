@@ -1,0 +1,1350 @@
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var01_Skeleton.uasset" 0
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var01_Anim.uasset" 1
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var02_Anim.uasset" 2
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var03_Anim.uasset" 3
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var04_Anim.uasset" 4
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var05_Anim.uasset" 5
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Effects/T_Butterflies_D.uasset" 6
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Effects/T_Butterflies_O.uasset" 7
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Simple_Cutout.uasset" 8
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Butterflies.uasset" 9
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Animations/Butterfly_Anim_Var01.uasset" 10
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 12
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 13
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 14
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/ButterflyBody.uasset" 15
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/ButterflyWing.uasset" 16
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_Butterfly.uasset" 17
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_11_Leafs_DO.uasset" 18
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Pfx_Additive.uasset" 19
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Effects/T_Pfx_FlamesAtlas.uasset" 20
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pfx_Flames.uasset" 21
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Effects/T_Pfx_Spark.uasset" 22
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pfx_Sparks.uasset" 23
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_FireCamp.uasset" 24
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_LightInsectsCampFire.uasset" 25
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Pfx_TranslucentLit.uasset" 26
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Effects/T_Pfx_Smoke.uasset" 27
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pfx_SmokeChimney.uasset" 28
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_SmokeFireCamp.uasset" 29
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Detail_N.uasset" 30
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_01_D.uasset" 31
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_01_N.uasset" 32
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_01_RM.uasset" 33
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_03_E.uasset" 34
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Uber.uasset" 35
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_02_D.uasset" 36
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_02_N.uasset" 37
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_02_RM.uasset" 38
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_02.uasset" 39
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Fish.uasset" 40
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_06_D.uasset" 41
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_06_N.uasset" 42
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_06_RM.uasset" 43
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_06.uasset" 44
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Log_Var01.uasset" 45
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Log_Var02.uasset" 46
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Log_Var03.uasset" 47
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Spike.uasset" 48
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_08_D.uasset" 49
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_08_N.uasset" 50
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_08_RM.uasset" 51
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_08.uasset" 52
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Stone_Small_Var01.uasset" 53
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Stone_Small_Var02.uasset" 54
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Stone_Small_Var03.uasset" 55
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Stone_Small_Var04.uasset" 56
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Stone_Small_Var05.uasset" 57
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_CampFire.uasset" 58
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/Misc/BP_Interface_OnDayOnNight.uasset" 59
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_CampFire_OnDayOnNight.uasset" 60
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_FireTorch.uasset" 61
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_SmokeChimney.uasset" 62
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_04_D.uasset" 63
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_04_E.uasset" 64
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_04_N.uasset" 65
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_04_RM.uasset" 66
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_04.uasset" 67
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01.uasset" 68
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_05_D.uasset" 69
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_05_E.uasset" 70
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_05_N.uasset" 71
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_05_RM.uasset" 72
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_05.uasset" 73
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra01.uasset" 74
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra02.uasset" 75
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra03.uasset" 76
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra04.uasset" 77
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra05.uasset" 78
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra06.uasset" 79
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra07.uasset" 80
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var01_Extra08.uasset" 81
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Torch_Var02.uasset" 82
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_House_Var01.uasset" 83
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_House_Var01_OnDayOnNight.uasset" 84
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_09_D.uasset" 85
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_09_E.uasset" 86
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_09_N.uasset" 87
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_09_RM.uasset" 88
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_09.uasset" 89
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var02.uasset" 90
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_House_Var02_Extra.uasset" 91
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_House_Var02.uasset" 92
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_House_Var02_OnDayOnNight.uasset" 93
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_LightInsects.uasset" 94
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_03_D.uasset" 95
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_03_N.uasset" 96
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_03_RM.uasset" 97
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_03.uasset" 98
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_StreetLight.uasset" 99
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_Street_Lamp.uasset" 100
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_Street_Lamp_OnDayOnNight.uasset" 101
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Pfx_Diffuse_TwoSidedFoliage.uasset" 102
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pfx_Leafs.uasset" 103
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Effects/Pfx_FallingLeafs.uasset" 104
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeLeafs_D.uasset" 105
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeLeafs_Mask.uasset" 106
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeLeafs_N.uasset" 107
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeLeafs_O.uasset" 108
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeLeafs_RM.uasset" 109
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Uber_Cutout_Wind.uasset" 110
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_TreeLeafs.uasset" 111
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeTrunks_D.uasset" 112
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeTrunks_N.uasset" 113
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_TreeTrunks_RM.uasset" 114
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_TreeTrunks.uasset" 115
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Tree_Var01.uasset" 116
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Tree_Var02.uasset" 117
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Tree_Var03.uasset" 118
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Tree_Var04.uasset" 119
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Tree_Var05.uasset" 120
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_Tree.uasset" 121
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/T_Pack_06_O.uasset" 122
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Uber_Cutout.uasset" 123
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_06_Cutout.uasset" 124
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Flower_Var01.uasset" 125
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Flower_Var02.uasset" 126
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Flower_Var03.uasset" 127
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Flower_Var04.uasset" 128
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Flower_Var05.uasset" 129
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Flower_Var06.uasset" 130
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Landscape/T_Foliage_Var01_D.uasset" 131
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Landscape/T_Foliage_Var01_O.uasset" 132
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var01.uasset" 133
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_GrassPatch_Var01.uasset" 134
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Simple_Cutout_Wind.uasset" 135
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Landscape/T_Foliage_Var02_D.uasset" 136
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Textures/Landscape/T_Foliage_Var02_O.uasset" 137
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Landscape_Foliage_Var02.uasset" 138
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_GrassPatch_Var02.uasset" 139
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Well.uasset" 140
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Well_Extra01.uasset" 141
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Well_Extra02.uasset" 142
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Well_Extra03.uasset" 143
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Well_Extra04.uasset" 144
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/BP_Well.uasset" 145
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/Misc/BP_Misc_DayNight_Cycle.uasset" 146
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Blueprints/Misc/BP_Misc_Text.uasset" 147
+"../../../Engine/Content/EngineMeshes/Humanoid.uasset" 148
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Skeletons/Player/Samurai_Idle_Skeleton.uasset" 149
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Heavy_Attack.uasset" 150
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Normal_Attack_Anim.uasset" 151
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Samurai_Dead_Anim.uasset" 152
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Samurai_Idle_Anim.uasset" 153
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Samurai_Jump_Anim.uasset" 154
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Samurai_Run_Anim.uasset" 155
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Stabbing_Anim.uasset" 156
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Standing_Block_Idle.uasset" 157
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Player/Standing_Melee_Attack_360_High.uasset" 158
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Skeletons/Boss/Idle_Skeleton.uasset" 159
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Boss/Death_Anim_mixamo_com.uasset" 160
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Boss/Idle_Anim_mixamo_com.uasset" 161
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Boss/Rifle_Punch_mixamo_com.uasset" 162
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 163
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Boss/Getting_Up_Anim_mixamo_com.uasset" 164
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Boss/Reloading_Anim_mixamo_com.uasset" 165
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Animations/Boss/Stunned_Anim_mixamo_com.uasset" 166
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Boss/Sword_And_Shield_Slash_Anim_mixamo_com.uasset" 167
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA74U/T_KA74U_ALB.uasset" 168
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA74U/T_KA74U_M_MSK.uasset" 169
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA74U/T_KA74U_NRM.uasset" 170
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Patterns/T_Stripes__Pattern.uasset" 171
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Weapon_Master_USE.uasset" 172
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_762x39_ALB.uasset" 173
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_762x39_M_MSK.uasset" 174
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_762x39_NRM.uasset" 175
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_762x39_Empty.uasset" 176
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_556x45.uasset" 177
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/MinigunEnd.uasset" 178
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Western_Ricochet-SoundBible_com-1725886901.uasset" 179
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/Ammo/MiniGunBullet.uasset" 180
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun_tex.uasset" 181
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun_tex_Mat.uasset" 182
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun_Base_PhysicsAsset.uasset" 183
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun_Base_Skeleton.uasset" 184
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun_Rotating_Wheel_PhysicsAsset.uasset" 185
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun_Rotating_Wheel_Skeleton.uasset" 186
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Minigun.uasset" 187
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/MinigunMiddle.uasset" 188
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/MiniGun.uasset" 189
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Boss/BossHealth.uasset" 190
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Boss/InfantryTex.uasset" 191
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Boss/InfantryMat.uasset" 192
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Boss/Idle.uasset" 193
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 194
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 195
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 196
+"../../Plugins/2D/Paper2D/Content/TranslucentUnlitSpriteMaterial.uasset" 197
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/EnemyIcon_Sprite.uasset" 198
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/MinigunStart.uasset" 199
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Upper_Cut-SoundBible_com-1272257235.uasset" 200
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Boss/BossBP.uasset" 201
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/ExoRed_Skeleton.uasset" 202
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/Exo_Shooting_Copy.uasset" 203
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/EEnemyState.uasset" 204
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/AI/NPC_BB.uasset" 205
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Services/ChangeNPCSpeed.uasset" 206
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Services/IsPlayerInRange.uasset" 207
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/CombatInterface.uasset" 208
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/Attack.uasset" 209
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/ChasePlayer.uasset" 210
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/CheckDistance.uasset" 211
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/CheckPlayerDeath.uasset" 212
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/DecrementPathIndex.uasset" 213
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/PatrolPath.uasset" 214
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/FindPathPoint.uasset" 215
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/FindPlayerLocation.uasset" 216
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/IncrementPathIndex.uasset" 217
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/StopAttack.uasset" 218
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/AI/NPC_BT.uasset" 219
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/AI/NPC_AI.uasset" 220
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/EnemyHealth.uasset" 221
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyTypes/NPC_Parent.uasset" 222
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Katana/Tex1.uasset" 223
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Katana/Tex1_Mat.uasset" 224
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Katana/Tex2.uasset" 225
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Katana/Tex2_Mat.uasset" 226
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Katana/Tex3.uasset" 227
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Katana/Tex3_Mat.uasset" 228
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Katana/KatanaMesh.uasset" 229
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/EnemyKatana.uasset" 230
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Player/PlayerData/EAttackType.uasset" 231
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/SwordSoundsCue.uasset" 232
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/EnemySamuraiAnimBP.uasset" 233
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/SamuraiEnemyController.uasset" 234
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Player/PlayerData/AttackDetails.uasset" 235
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Player/UV_Samurai.uasset" 236
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Player/EnemySamurai.uasset" 237
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/SamuraiHealth.uasset" 238
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_circle01_4x4.uasset" 239
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_maskRGB3.uasset" 240
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_circle01_4x4G_nonD.uasset" 241
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_empty.uasset" 242
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_flare_a.uasset" 243
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_flare_flash.uasset" 244
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_auraWallWhite_4x4.uasset" 245
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise.uasset" 246
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_Fresnel.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 248
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 249
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/Mfunction/MF_ky_VectorToRadialValue.uasset" 250
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_magicCircle020.uasset" 251
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_magicCircle020.uasset" 252
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_chantDecoC.uasset" 253
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise6.uasset" 254
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_chantDecoA.uasset" 255
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_chantDecoAc.uasset" 256
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_base.uasset" 257
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_circleDust.uasset" 258
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_circleDust.uasset" 259
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_cylinderBend07.uasset" 260
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_magicCircle1.uasset" 261
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_smoke1.uasset" 262
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_smoke01.uasset" 263
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_smoke01.uasset" 264
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_smoke01b.uasset" 265
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_thunderBall.uasset" 266
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Player/UV_Samurai_Mat.uasset" 267
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_Idle_PhysicsAsset.uasset" 268
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai_Idle.uasset" 269
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyTypes/SamuraiEnemy.uasset" 270
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/LoadingScreen.uasset" 271
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/LoadingScreen.uasset" 272
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/EndGame.uasset" 273
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/Katana.uasset" 274
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/InteractableObjects/SaveShrineData.uasset" 275
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyData/EnemySaveData.uasset" 276
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Player/PlayerData/PlayerSaveData.uasset" 277
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AllSteelSave.uasset" 278
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_light_D.uasset" 279
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_light_N.uasset" 280
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_light.uasset" 281
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_light_Inst.uasset" 282
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianLight.uasset" 283
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/InteractableObjects/SaveShrine.uasset" 284
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/InteractableObjects/TriggerBoss.uasset" 285
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/InteractableObjects/TriggerSamurai.uasset" 286
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/GameInstanceBP.uasset" 287
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BuddhaStatue.uasset" 288
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/UIWidget.uasset" 289
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/DeathWidget.uasset" 290
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/footstepCue.uasset" 291
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Player/PlayerAnimBP.uasset" 292
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/PauseMenuWidget.uasset" 293
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/StaminaWidget.uasset" 294
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/Minimap_RenderTarget.uasset" 295
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/PlayerIcon.uasset" 296
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/PlayerIcon_Sprite.uasset" 297
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Player/PlayerBP.uasset" 298
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Player/HUDBP.uasset" 299
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/GameMode/MyAllSteelGameModeBaseBP.uasset" 300
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/FindRandomLocation.uasset" 301
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/Tasks/LoopPath.uasset" 302
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/AR4/T_AR4_ALB.uasset" 303
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/AR4/T_AR4_M_MSK.uasset" 304
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/AR4/T_AR4_NRM.uasset" 305
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/AR4/M_AR4.uasset" 306
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_X_Physics.uasset" 307
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_X_Skeleton.uasset" 308
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_X.uasset" 309
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/G67_Grenade/T_G67_ALB.uasset" 310
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/G67_Grenade/T_G67_M_MSK.uasset" 311
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/G67_Grenade/T_G67_NRM.uasset" 312
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/G67_Grenade/M_G67.uasset" 313
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SK_G67_Physics.uasset" 314
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SK_G67_Skeleton.uasset" 315
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SK_G67.uasset" 316
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA47/T_KA47_ALB.uasset" 317
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA47/T_KA47_M_MSK.uasset" 318
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA47/T_KA47_NRM.uasset" 319
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ka47/M_KA47.uasset" 320
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_X_Physics.uasset" 321
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_X_Skeleton.uasset" 322
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_X.uasset" 323
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/KA74U/M_KA74U.uasset" 324
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_X_Physics.uasset" 325
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_X_Skeleton.uasset" 326
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_X.uasset" 327
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA_Val/T_KA_Val_ALB.uasset" 328
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA_Val/T_KA_Val_M_MSK.uasset" 329
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/KA_Val/T_KA_Val_NRM.uasset" 330
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/KA_Val/M_KA_Val.uasset" 331
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_X_Physics.uasset" 332
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_X_Skeleton.uasset" 333
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_X.uasset" 334
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/M9_Knife/T_M9_ALB.uasset" 335
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/M9_Knife/T_M9_M_MSK.uasset" 336
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/M9_Knife/T_M9_NRM.uasset" 337
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/M9_Knife/M_M9_Knife.uasset" 338
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife_Physics.uasset" 339
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife_Skeleton.uasset" 340
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife.uasset" 341
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_9mm_ALB.uasset" 342
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_9mm_M_MSK.uasset" 343
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_9mm_NRM.uasset" 344
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_9mm.uasset" 345
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_ALB.uasset" 346
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_M_MSK.uasset" 347
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_NRM.uasset" 348
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11.uasset" 349
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_Rem_ALB.uasset" 350
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_Rem_M_MSK.uasset" 351
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/SMG11/T_SMG11_Rem_NRM.uasset" 352
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/SMG11/M_SMG11_Rem.uasset" 353
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_X_Physics.uasset" 354
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_X_Skeleton.uasset" 355
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_X.uasset" 356
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_X_Physics.uasset" 357
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_X_Skeleton.uasset" 358
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_X.uasset" 359
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs.uasset" 360
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/DitherTemporalAA.uasset" 362
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_stone02_2x2.uasset" 363
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_stone02.uasset" 364
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Texturing/TwoSidedTexturing.uasset" 366
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 367
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/Mfunction/MF_ky_AddHilight.uasset" 368
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/Mfunction/MF_ky_MaskToTopUnder.uasset" 369
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise5.uasset" 370
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController.uasset" 371
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/Mfunction/MF_ky_TexController_primitive.uasset" 372
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise17.uasset" 373
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_storm01.uasset" 374
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise4.uasset" 375
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_stormDeco01.uasset" 376
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_nonD.uasset" 377
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_dist_noise.uasset" 378
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_smoke_kai.uasset" 379
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_base_turbulence.uasset" 380
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_turbulence_smoke2d_trs.uasset" 381
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_vortex04_4x4.uasset" 382
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_vortex04_4x4.uasset" 383
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_vortex04B_4x4_two.uasset" 384
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_circleDist06.uasset" 385
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_quad_centerRot.uasset" 386
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_tornado07.uasset" 387
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_storm.uasset" 388
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_storm.uasset" 389
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_waterDust02.uasset" 390
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua.uasset" 391
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_aqua_nonD.uasset" 392
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_aqua.uasset" 393
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_aquaStorm.uasset" 394
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_aquaStorm.uasset" 395
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise3.uasset" 396
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_dynDust.uasset" 397
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_smoke2.uasset" 398
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_dynDust.uasset" 399
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_dark.uasset" 400
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_dark_nonD.uasset" 401
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_dark.uasset" 402
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_darkStorm.uasset" 403
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_darkStorm.uasset" 404
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_decoLines.uasset" 405
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_decoLinesB.uasset" 406
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_polar.uasset" 407
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_polarG_nonD.uasset" 408
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_bg.uasset" 409
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_subUV01.uasset" 410
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_shockwave12_4x4.uasset" 411
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_shockwave12_4x4.uasset" 412
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_hit2.uasset" 413
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_hit2.uasset" 414
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_flare_flash_trs.uasset" 415
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_polar_two.uasset" 416
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Fresnel_Function.uasset" 417
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_primitive.uasset" 418
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_primitive2b_trs.uasset" 419
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_primitive_dyn2.uasset" 420
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_two.uasset" 421
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_explosion.uasset" 422
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_explosion.uasset" 423
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_fire.uasset" 424
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_fire_nonD1.uasset" 425
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_stormDeco01_fire.uasset" 426
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_fireStorm.uasset" 427
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_fireStorm.uasset" 428
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/Mfunction/MF_ky_UVcontrol_4x4.uasset" 429
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_dust01_4x4.uasset" 430
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_dust01_4x4.uasset" 431
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_aura011_4x4.uasset" 432
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4.uasset" 433
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_aura011_4x4_nonD.uasset" 434
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_noise13_sml_nor.uasset" 435
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_smoke03.uasset" 436
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_auraWall02.uasset" 437
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_auraWall02_two.uasset" 438
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_maskCircle.uasset" 439
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_base_anime.uasset" 440
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_circle9_4x4.uasset" 441
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_circle9_4x4c2.uasset" 442
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_primitive_dynB_nonD.uasset" 443
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/DiamondGradient.uasset" 444
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBase.uasset" 445
+"../../../Engine/Content/EngineMaterials/BlendFunc_DefBlend.uasset" 446
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Blends/Blend_Screen.uasset" 447
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_dust_longStar.uasset" 448
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_starDust.uasset" 449
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_starDust_dis.uasset" 450
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_auraWall_distB_kai.uasset" 451
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_cylinder_lowPoly_dist.uasset" 452
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Meshes/SM_ky_cylinder_superLow.uasset" 453
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_healAura.uasset" 454
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_healAura.uasset" 455
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_bg_LC.uasset" 456
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_subUV_dynRGB.uasset" 457
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_lightning02_4x4.uasset" 458
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_lightning02_4x4.uasset" 459
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_lightningDust01_4x4.uasset" 460
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_lightningDust01_4x4_nonD.uasset" 461
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_flareVertical02.uasset" 462
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_flare01_primitive.uasset" 463
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_shine01_4x4.uasset" 464
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_shine01R_nonD.uasset" 465
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_lightning1.uasset" 466
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_lightning1.uasset" 467
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_flare25_4x4.uasset" 468
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_flare25_4x4.uasset" 469
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_hit1.uasset" 470
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_hit1.uasset" 471
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_deco_doom.uasset" 472
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_laser01.uasset" 473
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_shine01R.uasset" 474
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_starDust_sq.uasset" 475
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_laser01.uasset" 476
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_laser01.uasset" 477
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_lightning2.uasset" 478
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_lightning2.uasset" 479
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_dynDust2.uasset" 480
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_lightning3.uasset" 481
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_lightning3.uasset" 482
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_magicCircle1.uasset" 483
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_polar_primitive.uasset" 484
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_deco_rainbow.uasset" 485
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_trail_primitive.uasset" 486
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_subUV03.uasset" 487
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_flareVertical03_4x4.uasset" 488
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_flareVertical03b_4x4.uasset" 489
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_shine01B.uasset" 490
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_shockwave10_4x4.uasset" 491
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_shockwave10R_4x4_nonD.uasset" 492
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_shootingStar1.uasset" 493
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_shootingStar1.uasset" 494
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_fireBall.uasset" 495
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_fireBall.uasset" 496
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_shotSpawn.uasset" 497
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_ThunderBallHit.uasset" 498
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_thunderBall.uasset" 499
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_ThunderBallHit.uasset" 500
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_thunderForBeam.uasset" 501
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Textures/T_ky_shockWave03_4x4.uasset" 502
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/M_ky_shockWave03_4x4.uasset" 503
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_shockWave03g_4x4.uasset" 504
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder.uasset" 505
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_storm01_thunder_nonD.uasset" 506
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_thunderStorm.uasset" 507
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_thunderStorm.uasset" 508
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Materials/MI_ky_smoke01c.uasset" 509
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_waterBall.uasset" 510
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Particles/P_ky_waterBallHit.uasset" 511
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_waterBall.uasset" 512
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/Blueprints/BP_ky_waterBallHit.uasset" 513
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 514
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DefaultTextMaterialTranslucentUnlit.uasset" 515
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall.uasset" 516
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Physical_Materials/Rubber.uasset" 517
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall.uasset" 518
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Physical_Materials/Metal.uasset" 519
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall3.uasset" 520
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_Inst_NamePlate.uasset" 521
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall_Inst_BaseFloor.uasset" 522
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay_Enum.uasset" 523
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWall2.uasset" 524
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_Base.uasset" 525
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_Base2.uasset" 526
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_Base_FlatWall.uasset" 527
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_BaseRoom.uasset" 528
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_NamePlate.uasset" 529
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoDisplay.uasset" 530
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Textures/T_UnrealEngineDecal.uasset" 531
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_Glass.uasset" 532
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Textures/T_Pattern_M.uasset" 533
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern.uasset" 534
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_DemoWallPattern.uasset" 535
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_Inst_Mirrored.uasset" 536
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoWallPattern_NoText.uasset" 537
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_M.uasset" 538
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Textures/T_RoomTiles_N.uasset" 539
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoRoomTiles.uasset" 540
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Physical_Materials/Concrete.uasset" 541
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_DemoRoomTiles.uasset" 542
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_Glass.uasset" 543
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom_Enum.uasset" 544
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider1.uasset" 545
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoDivider2.uasset" 546
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall.uasset" 547
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_DemoWall_MattPlastic.uasset" 548
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomBackWall2.uasset" 549
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/M_LightTube.uasset" 550
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Materials/MI_LightTube.uasset" 551
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp.uasset" 552
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomClamp2.uasset" 553
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomL.uasset" 554
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomLTrim.uasset" 555
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim.uasset" 556
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrim2.uasset" 557
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomTrimAdd.uasset" 558
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU.uasset" 559
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU2.uasset" 560
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_DemoRoomU_Hole.uasset" 561
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall.uasset" 562
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Meshes/SM_URoom_Wall2.uasset" 563
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FXVarietyPack/EpicContent/Blueprints/BP_DemoRoom.uasset" 564
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/FogBrightnessLUT.uasset" 565
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/SunlightColorLUT.uasset" 566
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 567
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 568
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 569
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 570
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 571
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 572
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/Skybox.uasset" 573
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/Assets/SM_Arrows.uasset" 574
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 575
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/LevelContent/Blueprints/BP_LightStudio.uasset" 576
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/Exo_Jump_Copy.uasset" 577
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/Exo_Running_Jump_Copy.uasset" 578
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/Exo_Idle_Copy.uasset" 579
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/Exo_Run_Copy.uasset" 580
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/Exo_Walk_Copy.uasset" 581
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/MixamoBlend_ExoRed_1D.uasset" 582
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/Ammo/ARBullet.uasset" 583
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Physics.uasset" 584
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4_Skeleton.uasset" 585
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SK_AR4.uasset" 586
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/AssaultRifle.uasset" 587
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/EXO_normal.uasset" 588
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/RED_EXO_diffuse.uasset" 589
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/RED_EXO_mask.uasset" 590
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/Exo_Red_Armor.uasset" 591
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/BODY_mask.uasset" 592
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/BODY_normal.uasset" 593
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/RED_BODY_diffuse.uasset" 594
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Materials/Exo_Red_Bod.uasset" 595
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Mesh/ExoRed_PhysicsAsset.uasset" 596
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Mesh/Maximo_ExoRed.uasset" 597
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyTypes/RangedNPC.uasset" 598
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/MixamoCharacter_Master.uasset" 599
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/GUN_FIRE-GoodSoundForYou-820112263.uasset" 600
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Anims/MixamoAnimBP_ExoRed.uasset" 601
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_ExoRed/Mixamo_ExoRed.uasset" 602
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/SWAT_Skeleton.uasset" 603
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Running_Jump.uasset" 604
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Jump.uasset" 605
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Sword_Slash.uasset" 606
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Idle.uasset" 607
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Swat_Run.uasset" 608
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Walk.uasset" 609
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoBlend_SWAT_1D.uasset" 610
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife_X_Physics.uasset" 611
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife_X_Skeleton.uasset" 612
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/M9_Knife/SK_M9_Knife_X.uasset" 613
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/Knife.uasset" 614
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_diffuse.uasset" 615
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_new_mask.uasset" 616
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Materials/Swat_Mat.uasset" 617
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Mesh/SWAT_Physics.uasset" 618
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Mesh/Maximo_SWAT.uasset" 619
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyTypes/Melee_NPC.uasset" 620
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/MixamoAnimBP_SWAT.uasset" 621
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Mixamo_Swat.uasset" 622
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/EnemyIcon.uasset" 623
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_PhysicsAsset.uasset" 624
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai.uasset" 625
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_Attack_PhysicsAsset.uasset" 626
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai_Attack.uasset" 627
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_Damage_PhysicsAsset.uasset" 628
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai_Damage.uasset" 629
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_Dead_PhysicsAsset.uasset" 630
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai_Dead.uasset" 631
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_Jump_PhysicsAsset.uasset" 632
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai_Jump.uasset" 633
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/PhysicsAssets/Samurai_Run_PhysicsAsset.uasset" 634
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Player/Samurai_Run.uasset" 635
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/footstep1.uasset" 636
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/footstep2.uasset" 637
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/footstep3.uasset" 638
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/footstep4.uasset" 639
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Swoosh_1-SoundBible_com-231145780.uasset" 640
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Swoosh_3-SoundBible_com-1573211927.uasset" 641
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 642
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 643
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 644
+"../../../Engine/Content/BasicShapes/Cone.uasset" 645
+"../../../Engine/Content/BasicShapes/Cube.uasset" 646
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 647
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 648
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 649
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 650
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 651
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 652
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 653
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 654
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 655
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 656
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 657
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 658
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 659
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 660
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 661
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 662
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 663
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 664
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 665
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 666
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 667
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 668
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 669
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 670
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 671
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 672
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 673
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 674
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 675
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 676
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 677
+"../../../Engine/Content/EditorResources/S_Note.uasset" 678
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 679
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 680
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 681
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 682
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 683
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 684
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 685
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 686
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 687
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 688
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 689
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 690
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 691
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 692
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 693
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 694
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 695
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 696
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 697
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 698
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 699
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 700
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 701
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 702
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 703
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 704
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 705
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 706
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 707
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 708
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 709
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 710
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 711
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 712
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 713
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 714
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 715
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 716
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 717
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 718
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 719
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 720
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 721
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 722
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 723
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 724
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 725
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 726
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 727
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 728
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 729
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 730
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 731
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 732
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 733
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 734
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 735
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 736
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 737
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 738
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 739
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 740
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 741
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 742
+"../../../Engine/Content/EngineResources/Black.uasset" 743
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 744
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 745
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 746
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 747
+"../../../Engine/Content/EngineSounds/Master.uasset" 748
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 749
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 750
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 751
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 752
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 753
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 754
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 755
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 756
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 757
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 758
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 759
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 760
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 761
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 762
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 763
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 764
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 765
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 766
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 767
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 768
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 769
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 770
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 771
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 772
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 773
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 774
+"../../../Engine/Content/Tutorial/Installation/InstallingVisualStudioTutorial.uasset" 775
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 776
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 777
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 778
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 779
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 780
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 781
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 782
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 783
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 784
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 785
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 786
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 787
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 788
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 789
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 790
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 791
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 792
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 793
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 794
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 795
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 796
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/Maximo_Swat_Shooting.uasset" 797
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_45ap_ALB.uasset" 798
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_45ap_M_MSK.uasset" 799
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_45ap_NRM.uasset" 800
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_45ap.uasset" 801
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_45ap.uasset" 802
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/Ammo/ShotgunBullet.uasset" 803
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Shotgun/Materials/ShotTex.uasset" 804
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Shotgun/Materials/ShotTex_Mat.uasset" 805
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Shotgun/ShotMesh.uasset" 806
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Weapons/Shotgun.uasset" 807
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/shotgun-mossberg590-RA_The_Sun_God-451502290.uasset" 808
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/MixamoAnimPack/Mixamo_SWAT/Anims/SwatShootingAnim_BP.uasset" 809
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/NPCs/EnemyTypes/ShotgunNPC.uasset" 810
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 811
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 812
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 813
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 814
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 815
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 816
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 817
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 818
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 819
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Clock_01_D.uasset" 820
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Clock_01_N.uasset" 821
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Clock_01.uasset" 822
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Clock_02_D.uasset" 823
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Clock_02_N.uasset" 824
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Clock_02.uasset" 825
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_2_D.uasset" 826
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_2_N.uasset" 827
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Coliseum_2.uasset" 828
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Scaffolding_D.uasset" 829
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Scaffolding_N.uasset" 830
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Scaffolding.uasset" 831
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_A.uasset" 832
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Clock_FloorStones_D.uasset" 833
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Clock_FloorStones_N.uasset" 834
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Clock_FloorStones.uasset" 835
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_1_D.uasset" 836
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_1_N.uasset" 837
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Coliseum_1.uasset" 838
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_4_D.uasset" 839
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_4_N.uasset" 840
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Coliseum_4_Masked.uasset" 841
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_B.uasset" 842
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Coliseum_4.uasset" 843
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_C.uasset" 844
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_D.uasset" 845
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_E.uasset" 846
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_F.uasset" 847
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_G.uasset" 848
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_3_D.uasset" 849
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Coliseum_3_N.uasset" 850
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Coliseum_3.uasset" 851
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_H.uasset" 852
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Sand_D.uasset" 853
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Sand_N.uasset" 854
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Sand.uasset" 855
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Archive_I.uasset" 856
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Tablets_D.uasset" 857
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Tablets_N.uasset" 858
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Tablets.uasset" 859
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_ArchiveTablets_01.uasset" 860
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_ArchiveTablets_02.uasset" 861
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_Archive.uasset" 862
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BonsaiBell_01_D.uasset" 863
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BonsaiBell_01_N.uasset" 864
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_BonsaiBell_01.uasset" 865
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BonsaiBell_02_D.uasset" 866
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BonsaiBell_02_N.uasset" 867
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_BonsaiBell_02.uasset" 868
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BonsaiBell.uasset" 869
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_BonsaiBell_01Alpha.uasset" 870
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BonsaiBellLeaves.uasset" 871
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_BonsaiBell.uasset" 872
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_MIST_D.uasset" 873
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_MIST_mask.uasset" 874
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_MIST.uasset" 875
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_DirtAsian.uasset" 876
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GrassAsian_Tiled.uasset" 877
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_GrassAsian_Tiled_Forest.uasset" 878
+"../../../Engine/Content/BasicShapes/Plane.uasset" 879
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Floor01_D.uasset" 880
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Floor01_N.uasset" 881
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Floor01.uasset" 882
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Roof01_D.uasset" 883
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Roof01_N.uasset" 884
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Roof01.uasset" 885
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Roof02_D.uasset" 886
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Roof02_N.uasset" 887
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Roof02.uasset" 888
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Stair01_D.uasset" 889
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Stair01_N.uasset" 890
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Stair01.uasset" 891
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall02_D.uasset" 892
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall02_N.uasset" 893
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Wall02.uasset" 894
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall03_D.uasset" 895
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall03_N.uasset" 896
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Wall03.uasset" 897
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall04_D.uasset" 898
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall04_N.uasset" 899
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Wall04.uasset" 900
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall05_D.uasset" 901
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall05_N.uasset" 902
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Wall05.uasset" 903
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_C.uasset" 904
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_D.uasset" 905
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall01_D.uasset" 906
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Wall01_N.uasset" 907
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Wall01.uasset" 908
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_G.uasset" 909
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_H1.uasset" 910
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_MainDoor_D.uasset" 911
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_MainDoor_N.uasset" 912
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_MainDoor.uasset" 913
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_MainDoor.uasset" 914
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_MainDoor_02.uasset" 915
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_Tower.uasset" 916
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Door_D.uasset" 917
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Door_N.uasset" 918
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_AsianDoor.uasset" 919
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianDoor.uasset" 920
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Bamboo_02_D.uasset" 921
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Bamboo_02_N.uasset" 922
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_BambooLimbs_02.uasset" 923
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_BambooStalk_02.uasset" 924
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BambooNew_01.uasset" 925
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BambooNew_03.uasset" 926
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_bridge_D.uasset" 927
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_bridge_N.uasset" 928
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_bridge.uasset" 929
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Bridges.uasset" 930
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Tree_D.uasset" 931
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Terrace_tree_N.uasset" 932
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_AsianTree.uasset" 933
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Old_Cherry_Tree_D.uasset" 934
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Old_Cherry_Tree_N.uasset" 935
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Old_Cherry_TreeAlpha.uasset" 936
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CherryTreeBranches.uasset" 937
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CherryTreeTrunk.uasset" 938
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_InnerCourtHouse_A.uasset" 939
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Cement_D.uasset" 940
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_CliffRockTile_01_N.uasset" 941
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Cement.uasset" 942
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_InnerCourtRocks_A.uasset" 943
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_InnerCourtRocks_B.uasset" 944
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GrassAsian_Tiled02.uasset" 945
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_GrassAsian_Tiled02.uasset" 946
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_RockAsian_D.uasset" 947
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_RockSlab_N.uasset" 948
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_RockAsian_02.uasset" 949
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_InnerGround_A.uasset" 950
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_InnerGround_B.uasset" 951
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_LotusPond_D.uasset" 952
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_LotusPond_N.uasset" 953
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Lotus.uasset" 954
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_LilyPads.uasset" 955
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_LotusPondC.uasset" 956
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_MeditationFloor.uasset" 957
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Dojo_Steps.uasset" 958
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Dojo_Steps_N.uasset" 959
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Steps.uasset" 960
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Dojo_TileFloor.uasset" 961
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Dojo_TileFloor_N.uasset" 962
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Tile.uasset" 963
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_MeditationSteps.uasset" 964
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_OniStatues_D.uasset" 965
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_OniStatues_N.uasset" 966
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_AsianOniStatues.uasset" 967
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_OniStatue03.uasset" 968
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_OniStatue04.uasset" 969
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_PaperLantern.uasset" 970
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_PaperLantern.uasset" 971
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Paperlantern.uasset" 972
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Dam_Ground_N.uasset" 973
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_DirtAsian_02.uasset" 974
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_DirtAsian.uasset" 975
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Platform_A.uasset" 976
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Platform_B.uasset" 977
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Tile_02.uasset" 978
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Water.uasset" 979
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_PondWater.uasset" 980
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_WaterPlane.uasset" 981
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Scum.uasset" 982
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_PondScum.uasset" 983
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_WaterPondScum.uasset" 984
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_Castle01.uasset" 985
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_CherryTree.uasset" 986
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_IvyWall_01.uasset" 987
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_IvyWall_01.uasset" 988
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_IvyWall_01T_IvyWall_01.uasset" 989
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_IvyWall_01T_IvyWall_01.uasset" 990
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_UN_Trees_SM_Set01_D1.uasset" 991
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_UN_Trees_SM_Set01_NT_UN_Trees_SM_Set01_D.uasset" 992
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Roots.uasset" 993
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_BurntTree01.uasset" 994
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_BurntTree011.uasset" 995
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Grass01_N.uasset" 996
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_UN_Foliage_Materials_Grass03.uasset" 997
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Grass1.uasset" 998
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_Grass_Clump_02.uasset" 999
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_Grass_smallClump.uasset" 1000
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GroundCover.uasset" 1001
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_MasksTrees_3.uasset" 1002
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Ivy_02.uasset" 1003
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_GroundCoverIvy.uasset" 1004
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_Ivy_Clump.uasset" 1005
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/Props/SM_IvyWall_01.uasset" 1006
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_pillar_D.uasset" 1007
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_pillar_N.uasset" 1008
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Courtyard_Pillar_D.uasset" 1009
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_StoneFloor_D.uasset" 1010
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_StoneFloor_N.uasset" 1011
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Courtyard_StoneFloor.uasset" 1012
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_Surbase_D.uasset" 1013
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_Surbase_N.uasset" 1014
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Courtyard_Surbase.uasset" 1015
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExtCastle_StoneWall_03_D.uasset" 1016
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExtCastle_StoneWall_03_N.uasset" 1017
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_StoneWall_03.uasset" 1018
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYard_A.uasset" 1019
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYard_B.uasset" 1020
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYard_C.uasset" 1021
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYard_D.uasset" 1022
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_StoneFloorTrim_D.uasset" 1023
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Courtyard_StoneFloorTrim_N.uasset" 1024
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Courtyard_StoneFloorTrim.uasset" 1025
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Pit_Grass.uasset" 1026
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Pit_Grass_N.uasset" 1027
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Pit_Grass.uasset" 1028
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYard_E.uasset" 1029
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYard_F.uasset" 1030
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Courtyard_G.uasset" 1031
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_FrontGate_A.uasset" 1032
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Wroughtlron_D.uasset" 1033
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Wroughtlron_N.uasset" 1034
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_WroughtIron.uasset" 1035
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Iron_Window.uasset" 1036
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_IronTrim.uasset" 1037
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_Courtyard.uasset" 1038
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BlockWall_08_B.uasset" 1039
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BlockWall_08_D.uasset" 1040
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BlockWall_08_N.uasset" 1041
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_BlockWall_02_D.uasset" 1042
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BlockWall_07_D.uasset" 1043
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BlockWall_07_D_NRM.uasset" 1044
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_BlockWall_07_NRMS.uasset" 1045
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_CastleStitched_01.uasset" 1046
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_CastleStitched.uasset" 1047
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExteriorWindow.uasset" 1048
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_ExteriorWindow.uasset" 1049
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_CourtYardBuilding.uasset" 1050
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_Courtyard2.uasset" 1051
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_FrontGate_B.uasset" 1052
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_FrontHall_WoodCeiling_D.uasset" 1053
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_FrontHall_WoodCeiling_N.uasset" 1054
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_FrontHall_WoodCeiling.uasset" 1055
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_FrontHall_A.uasset" 1056
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_FrontHall_B.uasset" 1057
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Statue_Sconce_D.uasset" 1058
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Statue_Sconce_N.uasset" 1059
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Statue_Sconce.uasset" 1060
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_StatueHorn01_D.uasset" 1061
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_StatueHorn01_N.uasset" 1062
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_StatueHorn.uasset" 1063
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_FrontHall_C.uasset" 1064
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_FrontHall.uasset" 1065
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1066
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/CreateThirdOrthogonalVector.uasset" 1067
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 1068
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 1069
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Material/WorldCoords-XY.uasset" 1070
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_01_D.uasset" 1071
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/T_FieldGrass_02_M.uasset" 1072
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Textures/T_Water_N.uasset" 1073
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_01.uasset" 1074
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01.uasset" 1075
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD1.uasset" 1076
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/M_FieldGrass_Inst_01_LOD2.uasset" 1077
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/KiteDemo/Environments/Foliage/Grass/FieldGrass/SM_FieldGrass_01.uasset" 1078
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/NewInstancedStaticMeshFoliage.uasset" 1079
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Maps/TerrainMap02_sharedassets/ML_Cliff_LayerInfo.uasset" 1080
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Maps/TerrainMap02_sharedassets/ML_CliffFace_LayerInfo.uasset" 1081
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Maps/TerrainMap02_sharedassets/ML_DamMarshDirt_LayerInfo.uasset" 1082
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Maps/TerrainMap02_sharedassets/ML_DamMarshGrass_LayerInfo.uasset" 1083
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Maps/TerrainMap02_sharedassets/ML_Snow_LayerInfo.uasset" 1084
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Maps/DevMap_BuiltData.uasset" 1085
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GeneratorRoom_StoneWall_D.uasset" 1086
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GeneratorRoom_StoneWall_N.uasset" 1087
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_StoneWall.uasset" 1088
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GeneratorRoom_Surbase_D.uasset" 1089
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GeneratorRoom_Surbase_N.uasset" 1090
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Surbase.uasset" 1091
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_GeneratorRoom_StoneWall_D.uasset" 1092
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_GeneratorRoom_StoneWall_N.uasset" 1093
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_StoneWall.uasset" 1094
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Cliff01.uasset" 1095
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_CliffFace_01.uasset" 1096
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_DamMarshDirt_D.uasset" 1097
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_DamMarshGrass_D.uasset" 1098
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Snow_01_D.uasset" 1099
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Terrain.uasset" 1100
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1101
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_01.uasset" 1102
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Fence_Var03.uasset" 1103
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_Logs_Var01.uasset" 1104
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Materials/M_Inst_Pack_03_LightsOn.uasset" 1105
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/AdvancedVillagePack/Meshes/SM_StreetLight_LightsOn.uasset" 1106
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Models/Materials/Widgets/Minimap_RenderTarget_Mat.uasset" 1107
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/Minimap_Widget.uasset" 1108
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ArenaColumn_01_D.uasset" 1109
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ArenaColumn_01_N.uasset" 1110
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_ArenaColumn_01.uasset" 1111
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Arena_Column_01.uasset" 1112
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Arena_Column_02.uasset" 1113
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ArenaBG_Spire_01_D.uasset" 1114
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_ArenaBG_Spire_01.uasset" 1115
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_ArenaBG_Spire_01.uasset" 1116
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_B.uasset" 1117
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianCastle_Building.uasset" 1118
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BambooNew_02.uasset" 1119
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BambooNew_04.uasset" 1120
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BookShelf_D.uasset" 1121
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_BookShelf_N.uasset" 1122
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_BookShelf.uasset" 1123
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BookShelves02.uasset" 1124
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Colosseum_Door.uasset" 1125
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Column_D.uasset" 1126
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Column_N.uasset" 1127
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Column.uasset" 1128
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_InnerRail.uasset" 1129
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_OniStatue01.uasset" 1130
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExtCastle_Decay_D.uasset" 1131
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExtCastle_Decay_N.uasset" 1132
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Decay.uasset" 1133
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_PitTower.uasset" 1134
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Sconce.uasset" 1135
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Tomb_D.uasset" 1136
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Tomb_N.uasset" 1137
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Tomb.uasset" 1138
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Sepulcher.uasset" 1139
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Hangar_Ceiling_D.uasset" 1140
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Hangar_Ceiling_N.uasset" 1141
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Hangar_Ceiling.uasset" 1142
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Hangar_Surbase_D.uasset" 1143
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Hangar_Surbase_N.uasset" 1144
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Hangar_Surbase.uasset" 1145
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Shrine_Frame_D.uasset" 1146
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Shrine_Frame_N.uasset" 1147
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Shrine_Frame.uasset" 1148
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_A.uasset" 1149
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_B.uasset" 1150
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Hangar_Wall_02_D.uasset" 1151
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Hangar_Wall_02_N.uasset" 1152
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Hangar_Wall_02.uasset" 1153
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_C.uasset" 1154
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_D.uasset" 1155
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Shrine_E_D.uasset" 1156
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Shrine_E_N.uasset" 1157
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Shrine_E.uasset" 1158
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_E.uasset" 1159
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_F.uasset" 1160
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Shrine_G.uasset" 1161
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_StoneWall.uasset" 1162
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_WoodPlanks_Maw_01.uasset" 1163
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_WoodPlanks_Maw_01_N.uasset" 1164
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_WoodPlanks_Maw_01.uasset" 1165
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_DreamMaw_Shanty_05.uasset" 1166
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_DreamMaw_Shanty_06.uasset" 1167
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_DreamMaw_Shanty_07.uasset" 1168
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Areana_Snowy_02_D.uasset" 1169
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Coliseum_2_N.uasset" 1170
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Areana_Snowy_02.uasset" 1171
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_02.uasset" 1172
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_04.uasset" 1173
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Grave_Mansion_D.uasset" 1174
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Grave_Mansion_N.uasset" 1175
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Grave_Mansion.uasset" 1176
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_Toomb_01.uasset" 1177
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_Toomb_02.uasset" 1178
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_Toomb_03.uasset" 1179
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_Toomb_04.uasset" 1180
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/EnvironmentPack_4/SM_Grave_Toomb_05.uasset" 1181
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_UN_Trees_SM_Set01_D1.uasset" 1182
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_UN_Trees_SM_Set01_NT_UN_Trees_SM_Set01_D.uasset" 1183
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Roots.uasset" 1184
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/Props/SM_BurntTree011.uasset" 1185
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_Cage.uasset" 1186
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Cage.uasset" 1187
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Cage_Masked.uasset" 1188
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/Props/SM_Cage.uasset" 1189
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_DeadWood_B.uasset" 1190
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_DeadWood_B_N.uasset" 1191
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_HollowLog.uasset" 1192
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/Props/SM_HollowLog.uasset" 1193
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Textures/T_DeadWood_B_normals.uasset" 1194
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Materials/M_Deadwood.uasset" 1195
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvrionmentPack4/Meshes/Props/SM_Stump.uasset" 1196
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Fire01.uasset" 1197
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Fire01_Cue.uasset" 1198
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Fire_Sparks01.uasset" 1199
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Fire_Sparks01_Cue.uasset" 1200
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Sounds/Night_Sounds_-_Crickets-Lisa_Redfern-591005346.uasset" 1201
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Maps/DevMap.umap" 1202
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_RockAsian_02_D.uasset" 1203
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_RockSlab_02_N.uasset" 1204
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_RockAsian.uasset" 1205
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianRock_01.uasset" 1206
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianRock_02.uasset" 1207
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianRock_03.uasset" 1208
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Dam_Ground_D.uasset" 1209
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Dam_Ground.uasset" 1210
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsianStartPlatform.uasset" 1211
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_DirtPath.uasset" 1212
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_AsianDirtPath.uasset" 1213
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsiaPath.uasset" 1214
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Stair02_D.uasset" 1215
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Stair02_N.uasset" 1216
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Stair02.uasset" 1217
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsiaSteps.uasset" 1218
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_AsiaTerrain.uasset" 1219
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Grass_Combined.uasset" 1220
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_AsianGrass_Combined.uasset" 1221
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BackgroundGrass_01.uasset" 1222
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BackgroundGrass_02.uasset" 1223
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExtCastle_Plants_D.uasset" 1224
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_ExtCastle_Plants.uasset" 1225
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Grass_Asian.uasset" 1226
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Grass_Asian.uasset" 1227
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GrassTuft_Asian.uasset" 1228
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Grass_Tuft_Asian.uasset" 1229
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BackgroundGrass_03.uasset" 1230
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_ExtAsianCastle_Plant_Dark.uasset" 1231
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_ExtAsianCastle_Plant_Dark.uasset" 1232
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Grass_Asian_Dark.uasset" 1233
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Grass_Asian_Dark.uasset" 1234
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_GrassTuft_Dark.uasset" 1235
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Grass_Tuft_Dark.uasset" 1236
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BackgroundGrass_04.uasset" 1237
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BackgroundGrass_05.uasset" 1238
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Barrier_D.uasset" 1239
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Asia_Barrier_N.uasset" 1240
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Asia_Barrier.uasset" 1241
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_BambooFences.uasset" 1242
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Cliffs.uasset" 1243
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_Cliffs_02.uasset" 1244
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_OniStatue02.uasset" 1245
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_PathRocks_00.uasset" 1246
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_PathRocks_01.uasset" 1247
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_CliffRock_02.uasset" 1248
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_PitCliffs.uasset" 1249
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Cliff01.uasset" 1250
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Cliff01_B.uasset" 1251
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Textures/T_Cliff01_N.uasset" 1252
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Materials/M_Cliff01.uasset" 1253
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_RockNew_01.uasset" 1254
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Meshes/SM_StoneBorder.uasset" 1255
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/EnvironmentPack2/Blueprints/BP_AsianTerrain.uasset" 1256
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Maps/MainMenu_BuiltData.uasset" 1257
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/BluePrints/Widgets/MainMenu.uasset" 1258
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/Maps/MainMenu.umap" 1259
+"../../../Engine/Content/TemplateResources/M_Template_Master.uasset" 1260
+"../../../Engine/Content/TemplateResources/MI_Template_BaseGray_03_Metal.uasset" 1261
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Scope_25x56_ALB.uasset" 1262
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Scope_25x56_M_MSK.uasset" 1263
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Scope_25x56_NRM.uasset" 1264
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56.uasset" 1265
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Scope_25x56_Lens_ALB.uasset" 1266
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Scope_25x56_Lens_M_MSK.uasset" 1267
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_Scope_Lens_MASTER.uasset" 1268
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens.uasset" 1269
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Scope_25x56_Lens_NoAlpha.uasset" 1270
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Accessories/SM_Scope_25x56_Y.uasset" 1271
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Suppressor5_ALB.uasset" 1272
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Suppressor5_M_MSK.uasset" 1273
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Suppressor5_NRM.uasset" 1274
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Suppressor5.uasset" 1275
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Accessories/SM_Suppressor5.uasset" 1276
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_Glass.uasset" 1277
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Tc4_ALB.uasset" 1278
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Tc4_M_MSK.uasset" 1279
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_Tc4_NRM.uasset" 1280
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_Tc4_Sight.uasset" 1281
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/RDS/T_RDS_01.uasset" 1282
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Master_Material/M_RDS_Master.uasset" 1283
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/RDS/M_RDS_01.uasset" 1284
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Accessories/SM_T4_Sight.uasset" 1285
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_V_Grip_ALB.uasset" 1286
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_V_Grip_M_MSK.uasset" 1287
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Accessories/T_V_Grip_NRM.uasset" 1288
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Accessories/M_V_Grip.uasset" 1289
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Accessories/SM_Vertgrip.uasset" 1290
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_12Gauge_ALB.uasset" 1291
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_12Gauge_M_MSK.uasset" 1292
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_12Gauge_NRM.uasset" 1293
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_Ammo_12gauge.uasset" 1294
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_12Gauge.uasset" 1295
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_12Gauge_Empty.uasset" 1296
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_40mm_Grenade_ALB.uasset" 1297
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_40mm_Grenade_M_MSK.uasset" 1298
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_40mm_Grenade_NRM.uasset" 1299
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_40mm_Grenade.uasset" 1300
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_40mm_G.uasset" 1301
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_40mm_G_Empty.uasset" 1302
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_45ap_Empty.uasset" 1303
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_545x39.uasset" 1304
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_545x39_Empty.uasset" 1305
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_556x45_Empty.uasset" 1306
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_762x39.uasset" 1307
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_762x39_Empty.uasset" 1308
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_762x51.uasset" 1309
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_762x51_Empty.uasset" 1310
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_9mm.uasset" 1311
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_9mm_Empty.uasset" 1312
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_9x18_ALB.uasset" 1313
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_9x18_M_MSK.uasset" 1314
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Textures/Ammunition/T_9x18_NRM.uasset" 1315
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Materials/Ammunition/M_9x18.uasset" 1316
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_9x18.uasset" 1317
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ammunition/SM_Shell_9x18_Empty.uasset" 1318
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4_Mag.uasset" 1319
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/AR4/SM_AR4_Mag_Empty.uasset" 1320
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SK_G67_X_Physics.uasset" 1321
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SK_G67_X_Skeleton.uasset" 1322
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/G67_Grenade/SK_G67_X.uasset" 1323
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Physics.uasset" 1324
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47_Skeleton.uasset" 1325
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SK_KA47.uasset" 1326
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SM_KA47_Mag.uasset" 1327
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/Ka47/SM_KA47_Mag_Empty.uasset" 1328
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_Y_Physics.uasset" 1329
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_Y_Skeleton.uasset" 1330
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SK_KA74U_Y.uasset" 1331
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SM_KA74U_Mag_Empty_X.uasset" 1332
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SM_KA74U_Mag_X.uasset" 1333
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_Y_Physics.uasset" 1334
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_Y_Skeleton.uasset" 1335
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SK_KA_Val_Y.uasset" 1336
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SM_KA_Val_MAG_Loaded_Y.uasset" 1337
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA_Val/SM_KA_Val_Mag_Y.uasset" 1338
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_Y_Physics.uasset" 1339
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_Y_Skeleton.uasset" 1340
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Nostock_Y.uasset" 1341
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Y_Physics.uasset" 1342
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Y_Skeleton.uasset" 1343
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SK_SMG11_Y.uasset" 1344
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SM_SMG11_Mag_Empty_X.uasset" 1345
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Weapons/Meshes/SMG11/SM_SMG11_Mag_X.uasset" 1346
+"../../../../../../Users/Jakob/Documents/Dev/Actual Development/Unreal/AllSteel/Content/FPS_Weapon_Bundle/Maps/Weapons_Showcase.umap" 1347
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1348
+"../../../Engine/Content/Maps/Entry.umap" 1349
